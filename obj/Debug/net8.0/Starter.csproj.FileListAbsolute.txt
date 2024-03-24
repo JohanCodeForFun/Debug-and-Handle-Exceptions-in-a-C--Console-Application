@@ -12,3 +12,4 @@
 /Users/johanhellberg/Documents/Pro-Developer/CsharpProjects/csharpFundamentals/Guided-project-debugging-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.pdb
 /Users/johanhellberg/Documents/Pro-Developer/CsharpProjects/csharpFundamentals/Guided-project-debugging-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.genruntimeconfig.cache
 /Users/johanhellberg/Documents/Pro-Developer/CsharpProjects/csharpFundamentals/Guided-project-debugging-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/ref/Starter.dll
+/Users/johanhellberg/Documents/Pro-Developer/CsharpProjects/csharpFundamentals/Guided-project-debugging-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.sourcelink.json
