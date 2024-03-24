@@ -1,0 +1,14 @@
+/Users/johanhellberg/Documents/Pro-Developer/CsharpProjects/csharpFundamentals/Guided-project-debugging-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter
+/Users/johanhellberg/Documents/Pro-Developer/CsharpProjects/csharpFundamentals/Guided-project-debugging-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter.deps.json
+/Users/johanhellberg/Documents/Pro-Developer/CsharpProjects/csharpFundamentals/Guided-project-debugging-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter.runtimeconfig.json
+/Users/johanhellberg/Documents/Pro-Developer/CsharpProjects/csharpFundamentals/Guided-project-debugging-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter.dll
+/Users/johanhellberg/Documents/Pro-Developer/CsharpProjects/csharpFundamentals/Guided-project-debugging-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter.pdb
+/Users/johanhellberg/Documents/Pro-Developer/CsharpProjects/csharpFundamentals/Guided-project-debugging-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johanhellberg/Documents/Pro-Developer/CsharpProjects/csharpFundamentals/Guided-project-debugging-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfoInputs.cache
+/Users/johanhellberg/Documents/Pro-Developer/CsharpProjects/csharpFundamentals/Guided-project-debugging-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfo.cs
+/Users/johanhellberg/Documents/Pro-Developer/CsharpProjects/csharpFundamentals/Guided-project-debugging-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.csproj.CoreCompileInputs.cache
+/Users/johanhellberg/Documents/Pro-Developer/CsharpProjects/csharpFundamentals/Guided-project-debugging-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.dll
+/Users/johanhellberg/Documents/Pro-Developer/CsharpProjects/csharpFundamentals/Guided-project-debugging-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/refint/Starter.dll
+/Users/johanhellberg/Documents/Pro-Developer/CsharpProjects/csharpFundamentals/Guided-project-debugging-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.pdb
+/Users/johanhellberg/Documents/Pro-Developer/CsharpProjects/csharpFundamentals/Guided-project-debugging-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.genruntimeconfig.cache
+/Users/johanhellberg/Documents/Pro-Developer/CsharpProjects/csharpFundamentals/Guided-project-debugging-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/ref/Starter.dll
